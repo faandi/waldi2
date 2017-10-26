@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="App.WebGis/Apps.WebGis.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module.GeoServices/Configuration/ExtentList.cs">
+    <Files>
+      <File FileName="Module.GeoServices/Widgets/GeoServiceLayerList.cs" Line="11" Column="34" />
+      <File FileName="Module.GeoServices/Configuration/CrsList.cs" Line="1" Column="1" />
+      <File FileName="Module.GeoServices/Configuration/ExtentList.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Module.GeoServices/Widgets/GeoServiceLayerList.cs" line="85" offsetX="508" offsetY="1344" expression="l.Childs" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

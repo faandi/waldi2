@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modules.GeoServices", "Module.GeoServices\Modules.GeoServices.csproj", "{D5E362DA-0060-407E-98E8-EFB52D4931BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.WebGis", "App.WebGis\Apps.WebGis.csproj", "{DA511D80-3086-49F2-B288-7CB4FCE52017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Gui", "Core.Gui\Core.Gui.csproj", "{73E5C5CE-DF0B-4B65-AE6C-33FF91F5815D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E5C5CE-DF0B-4B65-AE6C-33FF91F5815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E5C5CE-DF0B-4B65-AE6C-33FF91F5815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E5C5CE-DF0B-4B65-AE6C-33FF91F5815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E5C5CE-DF0B-4B65-AE6C-33FF91F5815D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E362DA-0060-407E-98E8-EFB52D4931BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E362DA-0060-407E-98E8-EFB52D4931BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E362DA-0060-407E-98E8-EFB52D4931BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E362DA-0060-407E-98E8-EFB52D4931BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA511D80-3086-49F2-B288-7CB4FCE52017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA511D80-3086-49F2-B288-7CB4FCE52017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA511D80-3086-49F2-B288-7CB4FCE52017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA511D80-3086-49F2-B288-7CB4FCE52017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = App.WebGis\Apps.WebGis.csproj
+	EndGlobalSection
+EndGlobal
